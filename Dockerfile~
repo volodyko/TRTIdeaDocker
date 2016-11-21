@@ -1,6 +1,6 @@
 FROM debian
 
-MAINTAINER Volodymyr Moskaliuk "volodyko@zeoalliance.com"
+MAINTAINER Artur Trofymchuk "artur@trofymchuk.net"
 
 # Install Deps
 RUN apt-get --quiet update --yes
